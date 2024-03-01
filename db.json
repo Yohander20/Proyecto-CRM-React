@@ -1,40 +1,55 @@
 {
-    "clientes": [
-        {
-          "id": 1,
-          "nombre": "Juan",
-          "telefono": 102013313,
-          "email": "juan@juan.com",
-          "empresa": "Codigo Con Juan"
-        },
-        {
-          "id": 2,
-          "nombre": "Karen",
-          "telefono": 138198313,
-          "email": "karen_nuevo@juan.com",
-          "empresa": "Codigo Con Juan" 
-          
-        },
-        {
-          "id": 3,
-          "nombre": "Miguel",
-          "telefono": 319381983,
-          "email": "miguel@juan.com",
-          "empresa": "Codigo Con Juan"
-        },
-        {
-          "id": 4,
-          "nombre": "Pedro",
-          "telefono": 1398198938,
-          "email": "pedro@juan.com",
-          "empresa": "Codigo Con Juan"
-        },
-        {
-          "id": 5,
-          "nombre": "Juan Coco",
-          "telefono": "10901",
-          "email": "correo@correo.com",
-          "empresa": "Codigo con Juan"
-        }
-      ]
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen_nuevo@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "3",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "4",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "5",
+      "nombre": "Juan Coco",
+      "telefono": "10901",
+      "email": "correo@correo.com",
+      "empresa": "Codigo con Juan"
+    },
+    {
+      "id": "995e",
+      "nombre": "Juan",
+      "empresa": "cord",
+      "email": "dptosistemasgip@gmail.com",
+      "telefono": "04125253399",
+      "notas": "zxxx"
+    },
+    {
+      "id": "7cd7",
+      "nombre": "Juan",
+      "empresa": "cord",
+      "email": "teranyohander@gmail.com",
+      "telefono": "04125253399",
+      "notas": "xxx"
+    }
+  ]
 }

@@ -4,13 +4,14 @@ import {obtenerClientes} from "../data/Clientes"
 
 export function loader(){
  const clientes=obtenerClientes()
- return clientes
+  return clientes
 }
 
 function Index() {
 
   const clientes=useLoaderData();
-  console.log(clientes)
+
+  //Error Boundaries
   return (
    <>
    <h1 className='font-black text-4xl text-blue-900'>Clientes</h1>
