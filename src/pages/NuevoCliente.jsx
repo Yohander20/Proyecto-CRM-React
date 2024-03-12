@@ -37,7 +37,6 @@ function NuevoCliente() {
   const errores=useActionData()  
   const Navigate=useNavigate()  
 
-  console.log(errores)
   return (
     <>
     <h1 className='font-black text-4xl text-blue-900'>Nuevo Cliente</h1>
