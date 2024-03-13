@@ -18,11 +18,11 @@ CRUD.
 
 **-Hooks Utilizados:**
     
-     useLocation para obtener la ubicación actual de la pagina con el objeto location.path
+     useLocation: para obtener la ubicación actual de la pagina con el objeto location.path
 
      useNavigate: para navegar hacia otra pagina.
 
-**-loader:** una forma para agregar state a tu aplicicacion o consultar una API o de un objeto (simlar a un state)
+**-loader:** una forma para agregar state a tu aplicicacion o consultar una API o de un objeto (similar a un state)
 
 **-Action:** para procesar la entrada de datos en un FORM.
 
